@@ -57,6 +57,7 @@ Content-Type: application/json
    export AWS_SECRET_ACCESS_KEY=sua_secret_key
    export AWS_DEFAULT_REGION=us-east-1
    export SENDGRID_API_KEY=sua_sendgrid_api_key
+   export EMAIL=seu_email
    ```
 
 3. Execute:
